@@ -1,0 +1,36 @@
+{
+    "Products" :[
+        {
+        "Product_Name" : "A Desktop Refrigerator" ,
+        "Price" : 38.00 ,
+        "Details" : "Now when you say you need a cold one, you can mean it literally, with one (1) single refrigerated beverage at your fingertips.",
+        "Image" : "Desktop Refrigerator.jpg "
+        },
+        {
+        "Product_Name" : "Uranium Ore" ,
+        "Price" :  39.95 ,
+        "Details" : "While this small amount of uranium ore is pretty low on the radioactivity meter, it's pretty weird that you can buy it from the same site where you get your gym socks. And for more possessions to ditch, discover these 30 Home Decorations No One Over 30 Should Own.",
+        "Image" : "uranium-ore.jpg"
+        },
+        {
+        "Product_Name" : "A Home Mushroom Farm" ,
+        "Price" :  22.85 ,
+        "Details" : "Now you can grow your own fungus right at home—and not in between your toes!",
+        "Image" : "Mushrooms.jpg"
+        },
+        {
+        "Product_Name" : "A Pizza Hat" ,
+        "Price" :  11.62 ,
+        "Details" : "Finally, you can indulge in everyone's life-long desire of wearing pizza atop their head. Beware the sprinkled parmesan as you nod or shake your head, though—some might mistake it for dandruff.",
+        "Image" : "Pizza.jpg"
+        },
+        {
+        "Product_Name" : "A Baby Mop" ,
+        "Price" :  29.99 ,
+        "Details" : "It's never too early to teach your children about chores, as evidenced by this suit that lets your baby mop the house for you.",
+        "Image" : "baby-mop.jpg"
+        }
+
+    ]
+
+}
